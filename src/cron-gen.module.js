@@ -12,7 +12,6 @@ angular.module('angular-cron-gen', [])
             model: '=',
             selectClass: '<',
             use24HourTime: '<',
-            hideSeconds: '<',
             namePrefix: '@'
         },
         templateUrl: 'angular-cron-gen/cron-gen-time-select.html',
